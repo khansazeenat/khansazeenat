@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @khansazeenat
+- 👀 I’m interested in Coding, running, praying, sun watching, advertising, reading
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on ...projects where i help with javascript, html and css
+- 📫 How to reach me 
+- 😄 Pronouns:her/she
+- ⚡ Fun fact: I don't know how to use Github and i want to get to know you 
