@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @khansazeenat
-- 👀 I’m interested in Coding, running, praying, sun watching, advertising, reading
-- 🌱 I’m currently learning javascript
-- javascript, html and css
+-  hiii I am an html, css and javascript front end devloper
